@@ -1,5 +1,5 @@
 # Eveapp
-![Build](https://github.com/CallumHowell/EVEAI/workflows/Build/badge.svg)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/callumhowell/eveai/Build?style=for-the-badge)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.1.
 
